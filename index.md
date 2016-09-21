@@ -6,7 +6,7 @@ title: Home
 <h3>Code</h3>
 <ul>
 <li> MSCOCO Caption Evaluation <a href="https://github.com/tylin/coco-caption"> code</a></li>
-<li> <a href="https://github.com/ramakrishnavedantam928/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
+<li> <a href="https://github.com/vrama91/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
 </ul>	
 
 
@@ -18,7 +18,7 @@ title: Home
 	<li> Paper on "Learning Common Sense Through Visual Abstraction" accepted for publication in ICCV, 2015
 	<li> Serving as reviewer for <a href="http://pamitc.org/cvpr16/">CVPR 2016</a></li>
 	<li> Checkout our <a href="http://arxiv.org/abs/1504.00325"> ArXiv paper</a> on creating the <a href="http://mscoco.org/dataset/#captions">MSCOCO Caption Evaluation Server</a>
- 	<li> Paper on "CIDEr: Consensus-Based Image Description Evaluation" accepted for publication in CVPR, 2015. Checkout our <a href="https://github.com/ramakrishnavedantam928/cider">code</a> and <a href="http://ramakrishnavedantam928.github.io/cider/">project page</a></li>
+ 	<li> Paper on "CIDEr: Consensus-Based Image Description Evaluation" accepted for publication in CVPR, 2015. Checkout our <a href="https://github.com/vrama91/cider">code</a> and <a href="http://vrama91.github.io/cider/">project page</a></li>
 	<li> Paper on "Adopting Abstract Images for Semantic Scene Understanding" accepted to IEEE TPAMI</li>
 	<li> I interned at the <a href='http://cvn.ecp.fr/'>Center for Visual Computing</a> at Ecole Centrale de Paris/INRIA-Saclay in Summer, 2014 with <a href="http://cvn.ecp.fr/personnel/iasonas/">Iasonas Kokkinos</a></li>
 	<li> I attended the <a href='http://svg.dmi.unict.it/icvss2014/'>International Computer Vision Summer School</a> (ICVSS), 2014</li>
@@ -28,7 +28,7 @@ Hi! I am a third year Ph.D. student at Virginia Tech working under the guidance 
 
 I research about topics in language and vision, common sense reasoning, and (recently) unsupervised representation learning and generative models. 
 
-Previously I finished my undergrad in ECE at IIIT-Hyderabad where I worked with <a href='http://www.iiit.ac.in/people/faculty/mkrishna'>K. Madhava Krishna</a>. <a href='https://sites.google.com/site/ramakrishnavedantam928/'>Here</a> is a link to my old website.
+Previously I finished my undergrad in ECE at IIIT-Hyderabad where I worked with <a href='http://www.iiit.ac.in/people/faculty/mkrishna'>K. Madhava Krishna</a>. <a href='https://sites.google.com/site/vrama91/'>Here</a> is a link to my old website.
 <hr/>
 <div align="center"><b>I have spent several months at</b></div>
 <div align="center">
