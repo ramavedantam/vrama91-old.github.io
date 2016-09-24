@@ -3,13 +3,13 @@ layout: home
 title: Home
 ---
 
-Hi! I am a second year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Virginia Tech</a>. My advisor is <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>. I also work closely with <a href="http://www.larryzitnick.org">Larry Zitnick</a> from Facebook AI Research on various problems. I am primarily interested in Deep Learning/Machine Learning and Computer Vision.
+Hi! I am a second year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Virginia Tech</a>. My advisor is <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>. I also work closely with <a href="http://www.larryzitnick.org">Larry Zitnick</a> from Facebook AI Research on various problems. I spend my time thinking about problems in Deep Learning/Machine Learning, Computer Vision (CV), and ultimately, Artifical Intelligence (AI).
 
-I am interested in topics such as vision and language, unsupervised learning and common sense reasoning. A lot of my work focuses on leveraging abstract scenes made from clipart for high-level scene as well as language understanding.
+I am interested in topics such as vision and language, unsupervised learning and common sense reasoning. A lot of my work focuses on leveraging abstract scenes made from clipart for high-level scene understanding, and language grounding.
 
-I also care about issues of how we evaluate our models, as we move towards higher-level AI-complete tasks. I have previously worked on a (now popularly used) evaluation metric for image captioning called <a href="http://vrama91.github.io/cider/">CIDEr</a>. 
+I also care about issues of how we evaluate our models, as we edge towards higher-level AI-complete tasks. In my first project in grad school, I worked on a (now popularly used) evaluation metric for image captioning called <a href="http://vrama91.github.io/cider/">CIDEr</a>. 
 
-I am always interested in how we can elicit more human-like behaviour from machine learning models. One concrete direction that really excites me is building language models to solve a task (say convincing a human) as opposed to necessarily being correct. The latter could in many cases be a strictly harder thing to do!
+I am always interested in how we can elicit more human-like behaviour from machine learning models. One concrete direction that really excites me is building language models to solve a task (say convincing a human) as opposed to necessarily being correct or accurate. The latter could in many cases be a strictly harder thing to do!
 
 In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked with <a href='http://www.iiit.ac.in/people/faculty/mkrishna'>K. Madhava Krishna</a> in Robotics. <a href='https://sites.google.com/site/vrama91/'>Here</a> is a link to my old website.
 <hr/>
