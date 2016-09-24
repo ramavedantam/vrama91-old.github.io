@@ -30,8 +30,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 <ul>
 <li> MSCOCO Caption Evaluation <a href="https://github.com/tylin/coco-caption"> code</a></li>
 <li> <a href="https://github.com/vrama91/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
-<li> Code for our <a href="https://github.com/satwikkottur/VisualWord2Vec">CVPR paper on Learning Visually Grounded Word Embeddings</a>
-<li> 
+<li> Code for our CVPR'16 paper on <a href="https://github.com/satwikkottur/VisualWord2Vec">Learning Visually Grounded Word Embeddings</a>
 </ul>	
 
 
