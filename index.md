@@ -2,7 +2,7 @@
 layout: home
 title: Home
 ---
-<hr/>
+<br/>
 Hi! I am a second year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Virginia Tech</a>. My advisor is <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>. I also work closely with <a href="http://www.larryzitnick.org">Larry Zitnick</a> from Facebook AI Research on various problems. I spend my time thinking about problems in Deep Learning/Machine Learning, Computer Vision (CV), and ultimately, Artifical Intelligence (AI).
 
 I am interested in topics such as vision and language, unsupervised learning and common sense reasoning. A lot of my work focuses on leveraging abstract scenes made from clipart for high-level scene understanding, and language grounding.
