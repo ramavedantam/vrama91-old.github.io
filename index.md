@@ -37,7 +37,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 <div align="center"><b>I have spent several months at</b></div>
 <div align="center">
 <table text-align="center", align="center"><tr><td>
-	<a href='http://iiit.ac.in'><img src='public/images/iiit.png' width='75'></a></td> <td><a href='http://www.vt.edu'><img src='public/images/vt.png' width='75'></a></td><td><a href='http://www.siemens.com'><img src='public/images/siemens.png' width='75'></a></td><td><a href='http://www.inria.fr/en/centre/saclay'><img src='public/images/inria.png' width='75'></a></td><td><a href="https://research.google.com/"><img src="http://logok.org/wp-content/uploads/2015/09/Google-logo-2015-G-icon.png" width='75'></a></td></tr>
+	<a href='http://iiit.ac.in'><img src='public/images/iiit.png' width='100'></a></td> <td><a href='http://www.vt.edu'><img src='public/images/vt.png' width='100'></a></td><td><a href='http://www.siemens.com'><img src='public/images/siemens.png' width='100'></a></td><td><a href='http://www.inria.fr/en/centre/saclay'><img src='public/images/inria.png' width='100'></a></td><td><a href="https://research.google.com/"><img src="http://logok.org/wp-content/uploads/2015/09/Google-logo-2015-G-icon.png" width='100'></a></td></tr>
 	<tr><td>2009-2013</td><td>2013-2015</td><td>Summer, 2012</td><td>Summer, 2014</td><td>Summer, 2016</td></tr>
 </table>
 </div>
