@@ -26,6 +26,15 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 </ul>
 <hr/>
 
+<h3>Code</h3>
+<ul>
+<li> MSCOCO Caption Evaluation <a href="https://github.com/tylin/coco-caption"> code</a></li>
+<li> <a href="https://github.com/vrama91/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
+<li> Code for our <a href="https://github.com/satwikkottur/VisualWord2Vec">CVPR paper on Learning Visually Grounded Word Embeddings</a>
+<li> 
+</ul>	
+
+
 <div align="center"><b>I have spent several months at</b></div>
 <div align="center">
 <table text-align="center", align="center"><tr><td>
@@ -33,12 +42,6 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 	<tr><td>2009-2013</td><td>2013-2015</td><td>Summer, 2012</td><td>Summer, 2014</td><td>Summer, 2016</td></tr>
 </table>
 </div>
-
-<h3>Code</h3>
-<ul>
-<li> MSCOCO Caption Evaluation <a href="https://github.com/tylin/coco-caption"> code</a></li>
-<li> <a href="https://github.com/vrama91/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
-</ul>	
 
 <hr/>
 If you like this layout/page, see <a href='demo-post'> this</a> to build your own using github+jekyll 

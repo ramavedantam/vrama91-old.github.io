@@ -14,11 +14,12 @@ title: Publications
 	 <b> Satwik Kottur<sup>*</sup>, Ramakrishna Vedantam<sup>*</sup>, Jose´ Moura, Devi Parikh</b> <br/>
 	 <a href="http://arxiv.org/pdf/1511.07067v1.pdf">Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes</a><br/>
 	  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 <br/>
+		<a href="http://satwikkottur.github.io/VisualWord2Vec/">[Project Page]</a> <a href="https://github.com/satwikkottur/VisualWord2Vec">[Code]</a> <a href="https://arxiv.org/abs/1511.07067">[arXiv]</a>
 	</li>
 	<li> <b> Ramakrishna Vedantam<sup>*</sup>, Xiao Lin<sup>*</sup>, Tanmay Batra, C. Lawrence Zitnick, Devi Parikh</b> <br/>
 		<a href="https://vision.ece.vt.edu/cs/rvxtld_cs_2015.pdf">Learning Common Sense Through Visual Abstraction</a> <br/>
 		IEEE International Conference on Computer Vision (ICCV), 2015 <br/>
-		<a href="https://vision.ece.vt.edu/cs">[Project page]</a> [Code] [arXiv] <br/>
+		<a href="https://vision.ece.vt.edu/cs">[Project page]</a> <a href="https://vision.ece.vt.edu/cs/#code_data">[Code]</a><br/>
 	</li>
 	<li> <b> Ramakrishna Vedantam, C. Lawrence Zitnick, Devi Parikh</b> <br/>
 		<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.pdf">CIDEr: Consensus-based Image Description Evaluation</a> <br/>
