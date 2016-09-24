@@ -34,11 +34,11 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 </table>
 </div>
 
-<<h3>Code</h3>
+<h3>Code</h3>
 <ul>
 <li> MSCOCO Caption Evaluation <a href="https://github.com/tylin/coco-caption"> code</a></li>
 <li> <a href="https://github.com/vrama91/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
 </ul>	
 
-hr/>
+<hr/>
 If you like this layout/page, see <a href='demo-post'> this</a> to build your own using github+jekyll 
