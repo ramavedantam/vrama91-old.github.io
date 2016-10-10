@@ -26,10 +26,13 @@ title: Publications
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 <br/>
 		<a href="http://vrama91.github.io/cider/">[Project Page]</a> <a href="https://github.com/vrama91/cider">[Code]</a><a href="http://arxiv.org/abs/1411.5726">[arXiv]</a><br/>
 </ol>
-<sup>*</sup> Equal Contribution <br/>
-
 <h2>ArXiv</h2>
 <ol>
+	<li>
+	<b> Ramprasaath R. Selvaraju, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra</b><br/>
+	<a href="https://arxiv.org/pdf/1610.02391v1.pdf">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
+	[October, 2016]
+	</li>
 	<li>
 	<b> Prithvijit Chattopadhyay<sup>*</sup>, Ramakrishna Vedantam<sup>*</sup>, Ramprasaath RS, Dhruv Batra, Devi Parikh</b><br/>
 	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
