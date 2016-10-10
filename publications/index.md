@@ -5,41 +5,38 @@ title: Publications
 
 <ol>
 	</li>
-	<li> <b> C. Lawrence Zitnick, Ramakrishna Vedantam, Devi Parikh</b> <br/>
+	<li> C. Lawrence Zitnick, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
 		<a href="https://filebox.ece.vt.edu/~parikh/Publications/ZitnickVedantamParikh_clipart_PAMI2015.pdf">Adopting Abstract Images for Semantic Scene Understanding</a> <br/>
 		Special Issue on the best papers at the 2013 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)<br/>
 		IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016 
 	</li>
 	<li> 
-	 <b> Satwik Kottur<sup>*</sup>, Ramakrishna Vedantam<sup>*</sup>, Jose´ Moura, Devi Parikh</b> <br/>
+	 Satwik Kottur<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Jose´ Moura, Devi Parikh <br/>
 	 <a href="http://arxiv.org/pdf/1511.07067v1.pdf">Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes</a><br/>
 	  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 <br/>
 		<a href="http://satwikkottur.github.io/VisualWord2Vec/">[Project Page]</a> <a href="https://github.com/satwikkottur/VisualWord2Vec">[Code]</a> <a href="https://arxiv.org/abs/1511.07067">[arXiv]</a>
 	</li>
-	<li> <b> Ramakrishna Vedantam<sup>*</sup>, Xiao Lin<sup>*</sup>, Tanmay Batra, C. Lawrence Zitnick, Devi Parikh</b> <br/>
+	<li> <b> Ramakrishna Vedantam<sup>*</sup></b>, Xiao Lin<sup>*</sup>, Tanmay Batra, C. Lawrence Zitnick, Devi Parikh <br/>
 		<a href="https://vision.ece.vt.edu/cs/rvxtld_cs_2015.pdf">Learning Common Sense Through Visual Abstraction</a> <br/>
 		IEEE International Conference on Computer Vision (ICCV), 2015 <br/>
 		<a href="https://vision.ece.vt.edu/cs">[Project page]</a> <a href="https://vision.ece.vt.edu/cs/#code_data">[Code]</a><br/>
 	</li>
-	<li> <b> Ramakrishna Vedantam, C. Lawrence Zitnick, Devi Parikh</b> <br/>
+	<li> <b> Ramakrishna Vedantam</b>, C. Lawrence Zitnick, Devi Parikh <br/>
 		<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.pdf">CIDEr: Consensus-based Image Description Evaluation</a> <br/>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 <br/>
 		<a href="http://vrama91.github.io/cider/">[Project Page]</a> <a href="https://github.com/vrama91/cider">[Code]</a><a href="http://arxiv.org/abs/1411.5726">[arXiv]</a><br/>
 </ol>
 <h2>ArXiv</h2>
 <ol>
-	<li>
-	<b> Ramprasaath R. Selvaraju, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra</b><br/>
+	<li> Ramprasaath R. Selvaraju, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
 	<a href="https://arxiv.org/pdf/1610.02391v1.pdf">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
 	[October, 2016]
 	</li>
-	<li>
-	<b> Prithvijit Chattopadhyay<sup>*</sup>, Ramakrishna Vedantam<sup>*</sup>, Ramprasaath RS, Dhruv Batra, Devi Parikh</b><br/>
+	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
 	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
 	  [April, 2016]
 	</li>
-	<li> 
-	 <b> Xinlei Chen, Hao Fang, Tsung-Yi Lin, Ramakrishna Vedantam, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick </b> <br/>
+	<li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <b>Ramakrishna Vedantam</b>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
 	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
 	  [April, 2015]
 	</li>
