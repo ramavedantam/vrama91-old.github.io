@@ -43,4 +43,4 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 </div>
 
 <hr/>
-If you like this layout/page, see <a href='demo-post'> this</a> to build your own using github+jekyll 
+If you like this layout/page, see <a href='demo-post'>this</a> to build your own using github+jekyll 
