@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Publications
 ---
 
 <h2>ArXiv Manuscripts</h2>
