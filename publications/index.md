@@ -3,6 +3,23 @@ layout: page
 title: Publications
 ---
 
+<h2>ArXiv Manuscripts</h2>
+<ol>
+	<li> Ramprasaath R. Selvaraju, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
+	<a href="https://arxiv.org/pdf/1610.02391v1.pdf">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
+	[October, 2016]
+	</li>
+	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
+	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
+	  [April, 2016]
+	</li>
+	<li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <b>Ramakrishna Vedantam</b>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
+	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
+	  [April, 2015]
+	</li>
+</ol>
+
+<h2>Publications</h2>
 <ol>
 	</li>
 	<li> C. Lawrence Zitnick, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
@@ -26,22 +43,6 @@ title: Publications
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 <br/>
 		<a href="http://vrama91.github.io/cider/">[Project Page]</a> <a href="https://github.com/vrama91/cider">[Code]</a><a href="http://arxiv.org/abs/1411.5726">[arXiv]</a><br/>
 </ol>
-<h2>ArXiv</h2>
-<ol>
-	<li> Ramprasaath R. Selvaraju, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
-	<a href="https://arxiv.org/pdf/1610.02391v1.pdf">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
-	[October, 2016]
-	</li>
-	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
-	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
-	  [April, 2016]
-	</li>
-	<li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <b>Ramakrishna Vedantam</b>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
-	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
-	  [April, 2015]
-	</li>
-</ol>
-
 <sup>*</sup> Equal Contribution <br/>
 
 <hr/>
