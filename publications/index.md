@@ -4,7 +4,7 @@ layout: page
 
 <h2>ArXiv Manuscripts</h2>
 <ol>
-  <li> <b>Ramakrishna Vedantam<b>, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik<br/>
+  <li> <b>Ramakrishna Vedantam</b>, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik<br/>
 	<a href="https://arxiv.org/abs/1701.02870">Context-aware Captions from Context-agnostic Supervision</a><br/>
 	[January, 2017]
 	</li>
