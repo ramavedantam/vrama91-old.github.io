@@ -4,8 +4,12 @@ layout: page
 
 <h2>ArXiv Manuscripts</h2>
 <ol>
+  <li> <b>Ramakrishna Vedantam<b>, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik<br/>
+	<a href="https://arxiv.org/abs/1701.02870">Context-aware Captions from Context-agnostic Supervision</a><br/>
+	[January, 2017]
+	</li>
 	<li> Ramprasaath R. Selvaraju, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
-	<a href="https://arxiv.org/pdf/1610.02391v1.pdf">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
+	<a href="https://arxiv.org/abs/1610.02391">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
 	[October, 2016]
 	</li>
 	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
