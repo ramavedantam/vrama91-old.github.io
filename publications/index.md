@@ -4,17 +4,9 @@ layout: page
 
 <h2>ArXiv Manuscripts</h2>
 <ol>
-  <li> <b>Ramakrishna Vedantam</b>, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik<br/>
-	<a href="https://arxiv.org/abs/1701.02870">Context-aware Captions from Context-agnostic Supervision</a><br/>
-	[January, 2017]
-	</li>
 	<li> Ramprasaath R. Selvaraju, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
 	<a href="https://arxiv.org/abs/1610.02391">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
 	[October, 2016]
-	</li>
-	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
-	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
-	  [April, 2016]
 	</li>
 	<li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <b>Ramakrishna Vedantam</b>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
 	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
@@ -24,6 +16,13 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
+	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
+	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
+	IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <br/>
+	</li>
+  <li> <b>Ramakrishna Vedantam</b>, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik<br/>
+	<a href="https://arxiv.org/abs/1701.02870">Context-aware Captions from Context-agnostic Supervision</a><br/>
+	IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <br/>
 	</li>
 	<li> C. Lawrence Zitnick, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
 		<a href="https://filebox.ece.vt.edu/~parikh/Publications/ZitnickVedantamParikh_clipart_PAMI2015.pdf">Adopting Abstract Images for Semantic Scene Understanding</a> <br/>
@@ -45,6 +44,7 @@ layout: page
 		<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vedantam_CIDEr_Consensus-Based_Image_2015_CVPR_paper.pdf">CIDEr: Consensus-based Image Description Evaluation</a> <br/>
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 <br/>
 		<a href="http://vrama91.github.io/cider/">[Project Page]</a> <a href="https://github.com/vrama91/cider">[Code]</a><a href="http://arxiv.org/abs/1411.5726">[arXiv]</a><br/>
+	</li>
 </ol>
 <sup>*</sup> Equal Contribution <br/>
 
