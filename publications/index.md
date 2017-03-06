@@ -31,7 +31,7 @@ layout: page
 	</li>
 	<li> 
 	 Satwik Kottur<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Jose´ Moura, Devi Parikh <br/>
-	 <a href="http://arxiv.org/pdf/1511.07067v1.pdf">Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes</a><br/>
+	 <a href="https://arxiv.org/pdf/1511.07067.pdf">Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes</a><br/>
 	  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 <br/>
 		<a href="http://satwikkottur.github.io/VisualWord2Vec/">[Project Page]</a> <a href="https://github.com/satwikkottur/VisualWord2Vec">[Code]</a> <a href="https://arxiv.org/abs/1511.07067">[arXiv]</a>
 	</li>
