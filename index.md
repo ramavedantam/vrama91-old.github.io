@@ -18,7 +18,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 <ul>
 <li> Two papers accepted to CVPR 2017 as Spotlight presentations! </li>
 <li> I will be back at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on generative models for images!</li>
-<li> Serving as reviewer for <a href="http://www.eccv2016.org/">ECCV 2016, BMVC 2017, CVPR 2017, ICCV 2017</a></li>
+<li> Serving as reviewer for ECCV 2016, BMVC 2017, CVPR 2017, ICCV 2017</li>
 <li> I interned at Google Research in Summer 2016, with <a href="http://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a>!
 <li> I interned at the <a href='http://cvn.ecp.fr/'>Center for Visual Computing</a> at INRIA in Summer, 2014 with <a href="http://cvn.ecp.fr/personnel/iasonas/">Iasonas Kokkinos</a></li>
 </ul>
