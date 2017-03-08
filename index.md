@@ -16,13 +16,11 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
-<li> I will be back at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on problems related to abstract scenes!
-<li> Serving as reviewer for <a href="http://www.eccv2016.org/">ECCV 2016</a></li>
+<li> Two papers accepted to CVPR 2017 as Spotlight presentations! </li>
+<li> I will be back at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on generative models for images!</li>
+<li> Serving as reviewer for <a href="http://www.eccv2016.org/">ECCV 2016, BMVC 2017, CVPR 2017, ICCV 2017</a></li>
 <li> I interned at Google Research in Summer 2016, with <a href="http://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a>!
-<li> Paper on <a href="https://arxiv.org/abs/1511.07067">Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings using Abstract Scenes</a> accepted for publication in CVPR, 2016
-<li> Paper on <a href="https://vision.ece.vt.edu/cs/">Learning Common Sense Through Visual Abstraction</a> accepted for publication in ICCV, 2015
 <li> I interned at the <a href='http://cvn.ecp.fr/'>Center for Visual Computing</a> at INRIA in Summer, 2014 with <a href="http://cvn.ecp.fr/personnel/iasonas/">Iasonas Kokkinos</a></li>
-<li> I attended the <a href='http://svg.dmi.unict.it/icvss2014/'>International Computer Vision Summer School</a> (ICVSS), 2014</li>
 </ul>
 <hr/>
 
@@ -38,7 +36,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 <div align="center">
 <table text-align="center", align="center"><tr><td>
 	<a href='http://iiit.ac.in'><img src='public/images/iiit.png' width='100'></a></td> <td><a href='http://www.vt.edu'><img src='public/images/vt.png' width='100'></a></td><td><a href='http://www.siemens.com'><img src='public/images/siemens.png' width='100'></a></td><td><a href='http://www.inria.fr/en/centre/saclay'><img src='public/images/inria.png' width='100'></a></td><td><a href="https://research.google.com/"><img src="http://logok.org/wp-content/uploads/2015/09/Google-logo-2015-G-icon.png" width='100'></a></td></tr>
-	<tr><td>2009-2013</td><td>2013-2015</td><td>Summer, 2012</td><td>Summer, 2014</td><td>Summer, 2016</td></tr>
+	<tr><td>2009-2013</td><td>2013-2015</td><td>Summer, 2012</td><td>Summer, 2014</td><td>Summer, 2016 & Winter, 2017</td></tr>
 </table>
 </div>
 
