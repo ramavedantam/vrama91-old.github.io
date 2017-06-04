@@ -6,7 +6,7 @@ layout: page
 <ol>
   <li> <b>Ramakrishna Vedantam</b>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
 	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
-	[May, 2017]
+	[May, 2017]</li>
   <li> Ashwin K. Vijayakumar, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
 	<a href="https://arxiv.org/abs/1703.01720">Sound-Word2Vec: Learning Word Representations Grounded in Sounds</a><br/>
 	[March, 2017]
