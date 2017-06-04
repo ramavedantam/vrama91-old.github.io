@@ -10,9 +10,9 @@ On the vision side, I am interested in problems in vision and language, learning
 I also care about issues of how we evaluate our models, as we edge towards higher-level AI-complete tasks. In my first project in grad school, I worked on a (now popularly used) evaluation metric for image captioning called <a href="http://vrama91.github.io/cider/">CIDEr</a>. 
 
 I have been fortunate to work with some great mentors and collaborators during grad school, including <a href="http://larryzitnick.org/">Larry Zitnick</a>,
+<a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a>,
 <a href="https://www.cs.ubc.ca/~murphyk/">Kevin Murphy</a>,
-<a href="http://ai.stanford.edu/~gal/">Gal Chechik</a>, <a href="http://bengio.abracadoudou.com/">Samy Bengio</a>,
- and <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a>.
+<a href="http://ai.stanford.edu/~gal/">Gal Chechik</a>, <a href="http://bengio.abracadoudou.com/">Samy Bengio</a>.
 
 In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked with <a href='http://www.iiit.ac.in/people/faculty/mkrishna'>K. Madhava Krishna</a> in Robotics. <a href='https://sites.google.com/site/vrama91/'>Here</a> is a link to my old website.
 <hr/>
