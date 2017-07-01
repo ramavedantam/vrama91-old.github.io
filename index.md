@@ -19,6 +19,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
+<li> Paper on learning word embeddings grounded in sounds accepted as a short paper at EMNLP, 2017!</li>
 <li> I will be interning at Facebook AI Research (FAIR) this summer, working with <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>, <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a> and <a href="http://rohrbach.vision/">Marcus Rohrbach</a>!</li>
 <li> Two papers accepted to CVPR 2017 as Spotlight presentations! </li>
 <li> I interned at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on generative models for images!</li>
@@ -32,8 +33,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 <ul>
 <li> MSCOCO Caption Evaluation <a href="https://github.com/tylin/coco-caption"> code</a></li>
 <li> <a href="https://github.com/vrama91/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
-<li> Code for our CVPR'16 paper on <a href="https://github.com/satwikkottur/VisualWord2Vec">Learning Visually Grounded Word Embeddings</a>
+<li> Code for our CVPR'16 paper on <a href="https://github.com/satwikkottur/VisualWord2Vec">Learning Visually Grounded Word Embeddings</a></li>
 </ul>	
-
 <hr/>
 If you like this layout/page, see <a href='demo-post'>this</a> to build your own using github+jekyll 

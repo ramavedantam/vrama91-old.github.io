@@ -7,11 +7,7 @@ layout: page
   <li> <b>Ramakrishna Vedantam</b>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
 	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
 	[May, 2017]</li>
-  <li> Ashwin K. Vijayakumar, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
-	<a href="https://arxiv.org/abs/1703.01720">Sound-Word2Vec: Learning Word Representations Grounded in Sounds</a><br/>
-	[March, 2017]
-	</li>
-	<li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <b>Ramakrishna Vedantam</b>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
+<li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <b>Ramakrishna Vedantam</b>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
 	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
 	  [April, 2015]
 	</li>
@@ -19,6 +15,10 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
+  <li> Ashwin K. Vijayakumar, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
+	<a href="https://arxiv.org/abs/1703.01720">Sound-Word2Vec: Learning Word Representations Grounded in Sounds</a><br/>
+	Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017 (Short)<br/>
+	</li>
 	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
 	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
 	IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <b>(Spotlight)</b> <br/>
