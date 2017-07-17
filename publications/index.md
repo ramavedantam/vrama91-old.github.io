@@ -15,6 +15,10 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
+	<li> Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
+	<a href="https://arxiv.org/abs/1610.02391">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
+	International Conference on Computer Vision (ICCV), 2017 <br/>
+	</li>
   <li> Ashwin K. Vijayakumar, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
 	<a href="https://arxiv.org/abs/1703.01720">Sound-Word2Vec: Learning Word Representations Grounded in Sounds</a><br/>
 	Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017 (Short)<br/>
@@ -27,7 +31,7 @@ layout: page
 	<a href="https://arxiv.org/abs/1701.02870">Context-aware Captions from Context-agnostic Supervision</a><br/>
 	IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <b>(Spotlight)</b> <br/>
 	</li>
-	<li> Ramprasaath R. Selvaraju, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
+	<li> Ramprasaath R. Selvaraju, Abhishek Das, <b>Ramakrishna Vedantam</b>, Michael Cogswell, Devi Parikh, Dhruv Batra<br/>
 	<a href="https://arxiv.org/abs/1610.02391">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
 	NIPS Workshop on Interpretable Machine Learning in Complex Systems, 2016 <br/>
 	</li>
