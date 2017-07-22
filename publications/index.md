@@ -26,6 +26,7 @@ layout: page
 	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
 	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
 	IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <b>(Spotlight)</b> <br/>
+	<a href="https://filebox.ece.vt.edu/~vrama91/context_captions/">[Project Page]</a> <a href="https://arxiv.org/pdf/1701.02870">[arXiv]</a><br/>
 	</li>
   <li> <b>Ramakrishna Vedantam</b>, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik<br/>
 	<a href="https://arxiv.org/abs/1701.02870">Context-aware Captions from Context-agnostic Supervision</a><br/>
