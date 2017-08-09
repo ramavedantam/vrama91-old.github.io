@@ -19,6 +19,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
+<li> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
 <li> Recognized as one of the outstanding reviewers at CVPR, 2017</li>
 <li> Paper on learning word embeddings grounded in sounds accepted as a short paper at EMNLP, 2017!</li>
 <li> I will be interning at Facebook AI Research (FAIR) this summer, working with <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>, <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a> and <a href="http://rohrbach.vision/">Marcus Rohrbach</a>!</li>
