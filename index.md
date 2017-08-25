@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-Hi! I am a fourth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Virginia Tech</a>. My advisor is <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning.
+Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning.
 
 On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference.
 
