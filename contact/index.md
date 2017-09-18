@@ -3,8 +3,8 @@ layout: page
 title: Contact
 ---
 <div align="center">
-Email: vrama_at_gatech_dot_edu<br/>
-Address: <br/>
+<b>Email:</b> vrama_at_gatech_dot_edu<br/>
+<b>Address:</b> <br/>
 2nd Floor, College of Computing Building <br/>
 801 Atlantic Dr NW, Atlanta, GA 30332
 </div>
