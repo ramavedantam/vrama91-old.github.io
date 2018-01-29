@@ -4,9 +4,6 @@ layout: page
 
 <h2>ArXiv Manuscripts</h2>
 <ol>
-  <li> <b>Ramakrishna Vedantam</b>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
-	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
-	[May, 2017]</li>
 <li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <b>Ramakrishna Vedantam</b>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
 	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
 	  [April, 2015]
@@ -15,6 +12,10 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
+  <li> <b>Ramakrishna Vedantam</b>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
+	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
+	International Conference on Learning Representations (ICLR), 2018 <br/>
+	</li>
 	<li> Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
 	<a href="https://arxiv.org/abs/1610.02391">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
 	International Conference on Computer Vision (ICCV), 2017 <br/>
