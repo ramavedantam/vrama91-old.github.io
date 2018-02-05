@@ -15,6 +15,7 @@ layout: page
   <li> <b>Ramakrishna Vedantam</b>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
 	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
 	International Conference on Learning Representations (ICLR), 2018 <br/>
+	<a href="https://github.com/google/joint_vae">[Code]</a><br/>
 	</li>
 	<li> Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
 	<a href="https://arxiv.org/abs/1610.02391">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
