@@ -19,8 +19,8 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
-<li> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!
-<li> Paper on learning grounded generative (image) models accepted to ICLR, 2018!
+<li> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
+<li> Paper on learning grounded generative (image) models accepted to ICLR, 2018!</li>
 <li> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
 <li> Recognized as one of the outstanding reviewers at CVPR, 2017</li>
 <li> Paper on learning word embeddings grounded in sounds accepted as a short paper at EMNLP, 2017!</li>
