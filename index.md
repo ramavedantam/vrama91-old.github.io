@@ -19,11 +19,12 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
+<li> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!
 <li> Paper on learning grounded generative (image) models accepted to ICLR, 2018!
 <li> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
 <li> Recognized as one of the outstanding reviewers at CVPR, 2017</li>
 <li> Paper on learning word embeddings grounded in sounds accepted as a short paper at EMNLP, 2017!</li>
-<li> I will be interning at Facebook AI Research (FAIR) this summer, working with <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>, <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a> and <a href="http://rohrbach.vision/">Marcus Rohrbach</a>!</li>
+<li> I interned at Facebook AI Research (FAIR) in Summer, 2017, working with <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>, <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a> and <a href="http://rohrbach.vision/">Marcus Rohrbach</a>!</li>
 <li> Two papers accepted to CVPR 2017 as Spotlight presentations! </li>
 <li> I interned at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on generative models for images!</li>
 <li> Serving as reviewer for ECCV 2016, BMVC 2017, CVPR 2017, ICCV 2017</li>
