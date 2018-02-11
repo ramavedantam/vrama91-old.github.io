@@ -20,6 +20,7 @@ layout: page
 	<li> Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, <b>Ramakrishna Vedantam</b>, Devi Parikh, Dhruv Batra<br/>
 	<a href="https://arxiv.org/abs/1610.02391">Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization</a><br/>
 	International Conference on Computer Vision (ICCV), 2017 <br/>
+	<a href="https://github.com/ramprs/grad-cam">[Code]</a><a href="https://ramprs.github.io/2017/01/21/Grad-CAM-Making-Off-the-Shelf-Deep-Models-Transparent-through-Visual-Explanations.html">[Blog]</a><a href="http://gradcam.cloudcv.org/">[Demo]</a>
 	</li>
   <li> Ashwin K. Vijayakumar, <b>Ramakrishna Vedantam</b>, Devi Parikh<br/>
 	<a href="https://arxiv.org/abs/1703.01720">Sound-Word2Vec: Learning Word Representations Grounded in Sounds</a><br/>
@@ -28,6 +29,7 @@ layout: page
 	<li> Prithvijit Chattopadhyay<sup>*</sup>, <b>Ramakrishna Vedantam<sup>*</sup></b>, Ramprasaath RS, Dhruv Batra, Devi Parikh<br/>
 	<a href="http://arxiv.org/abs/1604.03505">Counting Everyday Objects in Everyday Scenes</a><br/>
 	IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <b>(Spotlight)</b> <br/>
+	<a href="https://github.com/prithv1/cvpr2017_counting">[Code]</a>
 	</li>
   <li> <b>Ramakrishna Vedantam</b>, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik<br/>
 	<a href="https://arxiv.org/abs/1701.02870">Context-aware Captions from Context-agnostic Supervision</a><br/>
