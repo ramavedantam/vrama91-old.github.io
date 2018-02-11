@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning.
+Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning.
 
 On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference.
 
@@ -38,6 +38,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 <li> MSCOCO Caption Evaluation <a href="https://github.com/tylin/coco-caption"> code</a></li>
 <li> <a href="https://github.com/vrama91/coco-caption">Codes</a> from MSCOCO Caption Evaluation for metrics (BLEU, ROUGE, CIDEr-D and METEOR), independent of the COCO annotations </li>
 <li> Code for our CVPR'16 paper on <a href="https://github.com/satwikkottur/VisualWord2Vec">Learning Visually Grounded Word Embeddings</a></li>
+<li> Code for our ICLR'18 paper on <a href="https://github.com/google/joint_vae">Generative Models of Visually Grounded Imagination</a></li>
 </ul>	
 <hr/>
 If you like this layout/page, see <a href='demo-post'>this</a> to build your own using github+jekyll 
