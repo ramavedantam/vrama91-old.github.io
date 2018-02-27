@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning.
+Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning. <span style="color:blue">I am graduating in 2018 and am on the job market.</span>
 
 On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference.
 
@@ -16,7 +16,6 @@ I have been fortunate to work with some great mentors and collaborators during g
 
 In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked with <a href='http://www.iiit.ac.in/people/faculty/mkrishna'>K. Madhava Krishna</a> in Robotics. <a href='https://sites.google.com/site/vrama91/'>Here</a> is a link to my old website.
 
-<span style="color:blue">I am graduating in 2018 and am on the job market.</span>
 <hr/>
 
 <h3>News</h3>
