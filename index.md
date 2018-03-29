@@ -20,17 +20,15 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
-<li> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
-<li> Paper on learning grounded generative (image) models accepted to ICLR, 2018!</li>
-<li> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
-<li> Recognized as one of the outstanding reviewers at CVPR, 2017</li>
-<li> Paper on learning word embeddings grounded in sounds accepted as a short paper at EMNLP, 2017!</li>
-<li> I interned at Facebook AI Research (FAIR) in Summer, 2017, working with <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>, <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a> and <a href="http://rohrbach.vision/">Marcus Rohrbach</a>!</li>
-<li> Two papers accepted to CVPR 2017 as Spotlight presentations! </li>
-<li> I interned at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on generative models for images!</li>
-<li> Serving as reviewer for ECCV 2016, BMVC 2017, CVPR 2017, ICCV 2017</li>
-<li> I interned at Google Research in Summer 2016, with <a href="http://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a>!</li>
-<li> I interned at the <a href='http://cvn.ecp.fr/'>Center for Visual Computing</a> at INRIA in Summer, 2014 with <a href="http://cvn.ecp.fr/personnel/iasonas/">Iasonas Kokkinos</a></li>
+<li> <b>[March, 2018]</b> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
+<li> <b>[Feb, 2018]</b> Paper on learning grounded generative (image) models accepted to ICLR, 2018!</li>
+<li> <b>[August, 2017]</b> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
+<li> <b>[June, 2017]</b> Recognized as one of the outstanding reviewers at CVPR, 2017</li>
+<li> <b>[June, 2017]</b> Paper on learning word embeddings grounded in sounds accepted as a short paper at EMNLP, 2017!</li>
+<li> <b>[May, 2017]</b> I interned at Facebook AI Research (FAIR) in Summer, 2017, working with <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>, <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a> and <a href="http://rohrbach.vision/">Marcus Rohrbach</a>!</li>
+<li> <b>[March, 2017]</b> Two papers accepted to CVPR 2017 as Spotlight presentations! </li>
+<li> <b>[Jan, 2017]</b> I interned at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on generative models for images!</li>
+<li> <b>[May, 2016]</b> I interned at Google Research in Summer 2016, with <a href="http://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a>!</li>
 </ul>
 <hr/>
 
