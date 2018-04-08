@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning. <span style="color:blue">I am graduating in 2018 and am on the job market.</span>
+Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning. My research is supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision. <span style="color:blue">I am graduating in 2018 and am on the job market.</span>
 
 On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference.
 
@@ -20,6 +20,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
+<li> <b>[April, 2018]</b> I received the 2018 Google PhD Fellowship in Machine Perception, Speech Technology and Computer Vision!</li>
 <li> <b>[March, 2018]</b> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
 <li> <b>[Feb, 2018]</b> Paper on learning grounded generative (image) models accepted to ICLR, 2018!</li>
 <li> <b>[August, 2017]</b> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
