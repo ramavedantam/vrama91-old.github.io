@@ -20,7 +20,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
-<li> <b>[April, 2018]</b> I received the 2018 Google PhD Fellowship in Machine Perception, Speech Technology and Computer Vision!</li>
+<li> <b>[April, 2018]</b> I received the <a href="https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html">2018 Google PhD Fellowship in Machine Perception, Speech Technology and Computer Vision</a>!</li>
 <li> <b>[March, 2018]</b> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
 <li> <b>[Feb, 2018]</b> Paper on learning grounded generative (image) models accepted to ICLR, 2018!</li>
 <li> <b>[August, 2017]</b> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
