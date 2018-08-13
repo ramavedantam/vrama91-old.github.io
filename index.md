@@ -7,9 +7,9 @@ Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~
 
 My research is supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision. Starting next Spring, I will be a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a>. 
 
-#On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference.
+[//]: # "On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference."
 
-#I also care about issues of how we evaluate our models, as we edge towards higher-level AI-complete tasks. In my first project in grad school, I worked on a (now popularly used) evaluation metric for image captioning called <a href="http://vrama91.github.io/cider/">CIDEr</a>. 
+[//]: # "I also care about issues of how we evaluate our models, as we edge towards higher-level AI-complete tasks. In my first project in grad school, I worked on a (now popularly used) evaluation metric for image captioning called CIDEr."
 
 I have been fortunate to work with some great mentors and collaborators during grad school, including <a href="http://larryzitnick.org/">Larry Zitnick</a>,
 <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a>,
