@@ -3,11 +3,13 @@ layout: home
 title: Home
 ---
 
-Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning. My research is supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision. Starting next Spring, I will be a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a>.
+Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning. For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>.
 
-On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference.
+My research is supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision. Starting next Spring, I will be a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a>. 
 
-I also care about issues of how we evaluate our models, as we edge towards higher-level AI-complete tasks. In my first project in grad school, I worked on a (now popularly used) evaluation metric for image captioning called <a href="http://vrama91.github.io/cider/">CIDEr</a>. 
+#On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference.
+
+#I also care about issues of how we evaluate our models, as we edge towards higher-level AI-complete tasks. In my first project in grad school, I worked on a (now popularly used) evaluation metric for image captioning called <a href="http://vrama91.github.io/cider/">CIDEr</a>. 
 
 I have been fortunate to work with some great mentors and collaborators during grad school, including <a href="http://larryzitnick.org/">Larry Zitnick</a>,
 <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a>,
@@ -20,7 +22,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
-<li> <b>[July, 2018]</b> I will be starting at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> as a Research Scientist next Spring!
+<li> <b>[July, 2018]</b> I will be starting at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> as a Research Scientist next Spring!</li>
 <li> <b>[April, 2018]</b> I received the <a href="https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html">2018 Google PhD Fellowship in Machine Perception, Speech Technology and Computer Vision</a>!</li>
 <li> <b>[March, 2018]</b> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
 <li> <b>[Feb, 2018]</b> Paper on learning grounded generative (image) models accepted to ICLR, 2018!</li>
