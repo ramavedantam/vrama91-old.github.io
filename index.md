@@ -3,9 +3,13 @@ layout: home
 title: Home
 ---
 
-Hi! I am a fifth year Ph.D. student at the <a href='https://filebox.ece.vt.edu/~parikh/CVL.html'>Computer Vision Lab, Georgia Tech</a>. My advisor is <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>. I am broadly interested in computer vision and machine learning. For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>.
+Hi! I recently graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
+My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
+My thesis was on "Interpretation, Grounding and Imagination for Machine Intelligence". I am broadly interested in computer vision and machine learning.
+For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>. During my PhD, my research was supported by a Google PhD fellowship
+in Machine Perception, Speech Technology and Computer Vision.
 
-My research is supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision. Starting next Spring, I will be a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a>. 
+<font color='blue'>Starting in early 2019, I will be a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a>.</font>
 
 [//]: # "On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference."
 
