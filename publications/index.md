@@ -16,7 +16,6 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
-</li>
   <li> <em>Ramakrishna Vedantam</em>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
 	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
 	International Conference on Learning Representations (ICLR), 2018 <b><a href="https://chillee.github.io/OpenReviewExplorer/index.html">[Top 10%]</a></b> <br/>
