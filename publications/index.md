@@ -6,7 +6,7 @@ layout: page
 <ol>
   <li><em> Ramakrishna Vedantam</em>, Stefan Lee, Marcus Rohrbach, Dhruv Batra, Devi Parikh<br/>
 	<a href="https://openreview.net/forum?id=ryxhB3CcK7">Probabilistic Neural-Symbolic Models for Interpretable Visual Question Answering</a><br/>
-	Work in Progress.
+	[September, 2018]
 	</li>
 <li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <em>Ramakrishna Vedantam</em>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
 	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
