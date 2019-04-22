@@ -4,10 +4,6 @@ layout: page
 
 <h2>ArXiv Manuscripts</h2>
 <ol>
-  <li><em> Ramakrishna Vedantam</em>, Stefan Lee, Marcus Rohrbach, Dhruv Batra, Devi Parikh<br/>
-	<a href="https://openreview.net/forum?id=ryxhB3CcK7">Probabilistic Neural-Symbolic Models for Interpretable Visual Question Answering</a><br/>
-	[September, 2018]
-	</li>
 <li> Xinlei Chen, Hao Fang, Tsung-Yi Lin, <em>Ramakrishna Vedantam</em>, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick<br/>
 	 <a href="http://arxiv.org/abs/1504.00325">Microsoft COCO Captions: Data Collection and Evaluation Server</a><br/>
 	  [April, 2015]
@@ -16,6 +12,10 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
+  <li><em> Ramakrishna Vedantam</em>, Karan Desai, Stefan Lee, Marcus Rohrbach, Dhruv Batra, Devi Parikh<br/>
+	<a href="https://arxiv.org/abs/1902.07864">Probabilistic Neural-Symbolic Models for Interpretable Visual Question Answering</a><br/>
+	International Conference on Machine Learning (ICML), 2019 <br/>
+	</li>
   <li> <em>Ramakrishna Vedantam</em>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
 	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
 	International Conference on Learning Representations (ICLR), 2018 <b><a href="https://chillee.github.io/OpenReviewExplorer/index.html">[Top 10%]</a></b> <br/>
