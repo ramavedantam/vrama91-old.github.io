@@ -13,7 +13,7 @@ layout: page
 <h2>Publications</h2>
 <ol>
   <li><em> Ramakrishna Vedantam</em>, Karan Desai, Stefan Lee, Marcus Rohrbach, Dhruv Batra, Devi Parikh<br/>
-	<a href="https://arxiv.org/abs/1902.07864">Probabilistic Neural-Symbolic Models for Interpretable Visual Question Answering</a><br/>
+	<a href="https://arxiv.org/abs/1902.07864">Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering</a><br/>
 	International Conference on Machine Learning (ICML), 2019 <br/>
 	</li>
   <li> <em>Ramakrishna Vedantam</em>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
