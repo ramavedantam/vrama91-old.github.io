@@ -26,7 +26,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
-<li> <b>[April, 2019]</b> Paper on learning proabilistic neural symbolic models accepted to ICML, 2019!
+<li> <b>[April, 2019]</b> Paper on learning proabilistic neural symbolic models accepted to ICML, 2019!</li>
 <li> <b>[Feb, 2019]</b> I started at<a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> as a Research Scientist!</li>
 <li> <b>[April, 2018]</b> I received the <a href="https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html">2018 Google PhD Fellowship in Machine Perception, Speech Technology and Computer Vision</a>!</li>
 <li> <b>[March, 2018]</b> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
