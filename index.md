@@ -3,13 +3,13 @@ layout: home
 title: Home
 ---
 
-Hi! I recently graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
+Hi! I am a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a>, working out of New York.
+
+I recently graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
 My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
 My thesis was on "Interpretation, Grounding and Imagination for Machine Intelligence". I am broadly interested in computer vision and machine learning.
 For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>. During my PhD, my research was supported by a Google PhD fellowship
 in Machine Perception, Speech Technology and Computer Vision.
-
-<font color='blue'>Starting in early 2019, I will be a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a>.</font>
 
 [//]: # "On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference."
 
@@ -26,6 +26,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
+<li> <b>[April, 2019]</b> Paper on learning proabilistic neural symbolic models accepted to ICML, 2019!
 <li> <b>[July, 2018]</b> I will be starting at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> as a Research Scientist next Spring!</li>
 <li> <b>[April, 2018]</b> I received the <a href="https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html">2018 Google PhD Fellowship in Machine Perception, Speech Technology and Computer Vision</a>!</li>
 <li> <b>[March, 2018]</b> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
