@@ -14,7 +14,7 @@ layout: page
 <ol>
   <li><em> Ramakrishna Vedantam</em>, Karan Desai, Stefan Lee, Marcus Rohrbach, Dhruv Batra, Devi Parikh<br/>
 	<a href="https://arxiv.org/abs/1902.07864">Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering</a><br/>
-	International Conference on Machine Learning (ICML), 2019 <br/>
+	International Conference on Machine Learning (ICML), 2019 <b>(Long Oral)</b><b> [Top 4.2%]</b><br/>
 	</li>
   <li> <em>Ramakrishna Vedantam</em>, Ian Fischer, Jonathan Huang, Kevin Murphy<br/>
 	<a href="https://arxiv.org/abs/1705.10762">Generative Models of Visually Grounded Imagination</a><br/>
