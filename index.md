@@ -3,9 +3,13 @@ layout: home
 title: Home
 ---
 
-Hi! I am a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York, broadly interested in computer vision and machine learning. 
+Hi! I am a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York, broadly interested in
+machine learning that mimics capabilities of human intelligence. I tackle problems at this frontier from the perspective of how one can get machines to 
+appropriately learn concepts, and how to combine concepts to enable conceptual leaps, mimicking and hopefully surpassing the capabilities of humans.
+I enjoy working on both practical aspects (of tools, benchmarks, tasks) to enable progress on these questions and dabble a bit on the theoretical
+front as well. 
 
-I recently graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
+Previously, I graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
 My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
 My thesis was on "Interpretation, Grounding and Imagination for Machine Intelligence".
 
@@ -26,6 +30,7 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
+<li> <b>[September, 2020]</b> Paper on decodable information for optimal supervised representation learning accepted to NeurIPS, 2020 as a Spotlight!</li>
 <li> <b>[April, 2020]</b> Paper on finding decision states without external reward supervision in RL accepted to IJCAI, 2020!</li>
 <li> <b>[April, 2019]</b> Paper on learning proabilistic neural symbolic models accepted to ICML, 2019!</li>
 <li> <b>[Feb, 2019]</b> I started at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> as a Research Scientist!</li>

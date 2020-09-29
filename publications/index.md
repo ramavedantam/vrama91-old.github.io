@@ -12,6 +12,12 @@ layout: page
 
 <h2>Publications</h2>
 <ol>
+  <li>Yann Dubois, Douwe Keila, David J. Schwab, <em>Ramakrishna Vedantam</em><br/>
+	<a href="https://arxiv.org/abs/2009.12789">Learning Optimal Representations with the Decodable Information Bottleneck</a><br/>
+	Neural Information Processing Systems (NeurIPS), 2020 <b>(Spotlight)</b> <b> [Top 4%] </b><br/>
+  <li>Nirbhay Modhe, Prithvijit Chattopadhyay, Mohit Sharma, Abhishek Das, Devi Parikh, Dhruv Batra, <em>Ramakrishna Vedantam</em><br/>
+	<a href="https://arxiv.org/abs/1907.10580">IR-VIC: IR-VIC: Unsupervised Discovery of Sub-goals for Transfer in RL</a><br/>
+	International Joint Conference on Artificial Intelligence (IJCAI), 2020 <b> [Top 12.6%] </b><br/>
   <li><em> Ramakrishna Vedantam</em>, Karan Desai, Stefan Lee, Marcus Rohrbach, Dhruv Batra, Devi Parikh<br/>
 	<a href="https://arxiv.org/abs/1902.07864">Probabilistic Neural-symbolic Models for Interpretable Visual Question Answering</a><br/>
 	International Conference on Machine Learning (ICML), 2019 <b>(Long Oral)</b><b> [Top 4.2%]</b><br/>
