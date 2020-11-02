@@ -11,7 +11,7 @@ front as well.
 
 Previously, I graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
 My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
-My thesis was on "Interpretation, Grounding and Imagination for Machine Intelligence".
+My thesis was on <a href="https://smartech.gatech.edu/handle/1853/60799">"Interpretation, Grounding and Imagination for Machine Intelligence"</a>.
 
 For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>. During my PhD, my research was supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision.
 
