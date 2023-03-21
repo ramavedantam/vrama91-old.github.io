@@ -4,21 +4,21 @@ title: Home
 ---
 
 Hi! I am currently a visiting researcher at the NYU Center for Data Science (CDS) working with <a href="https://en.wikipedia.org/wiki/Julia_Kempe">Prof. Julia Kempe</a> and <a href="https://cims.nyu.edu/~andrewgw/">Prof. Andrew Gordon Wilson</a>.
-Previously, I was Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York. I enjoy
+Previously, I was a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York. I enjoy
 working on problems in core machine learning that make AI models more general, robust and human-like. 
 In pursuit of these goals, my current focus is on multimodal machine learning, robustness and data efficient learning.
 
-At FAIR I proposed the <a href="https://arxiv.org/abs/2009.12789">Decodable Information Bottleneck for Representation Learning</a> which provides
+At FAIR, I proposed the <a href="https://arxiv.org/abs/2009.12789">Decodable Information Bottleneck for Representation Learning</a> which provides
 a theoretical and practical foundation for worst case risk mitigation for deep representation learning.
 
-Previously, I graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
+Previously, I graduated with a Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech.
 My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
 My thesis was on <a href="https://smartech.gatech.edu/handle/1853/60799">"Interpretation, Grounding and Imagination for Machine Intelligence"</a>.
-Among other things, I proposed the <a href="https://arxiv.org/abs/1411.5726">CIDEr metric</a> commonly used for evaluating image captioning
+Among other things, during my Ph.D. I proposed the <a href="https://arxiv.org/abs/1411.5726">CIDEr metric</a> commonly used for evaluating image captioning
 models (<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v1CRzeAAAAAJ&citation_for_view=v1CRzeAAAAAJ:9yKSN-GCB0IC">3000+</a> citations) and contributed to the <a href="https://arxiv.org/abs/1610.02391">Grad-CAM</a> method popularly used for interpreting neural
-network predictions (<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v1CRzeAAAAAJ&citation_for_view=v1CRzeAAAAAJ:zYLM7Y9cAGgC">13000+</a> citations) during my Ph.D.
+network predictions (<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v1CRzeAAAAAJ&citation_for_view=v1CRzeAAAAAJ:zYLM7Y9cAGgC">13000+</a> citations).
 
-For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>. During my PhD, my research was supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision.
+For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>. My PhD research was supported by the highly competitive Google Ph.D. fellowship in Machine Perception, Speech Technology and Computer Vision.
 
 [//]: # "On the vision side, I am interested in problems in vision and language, learning common sense and visual reasoning. On the machine learning side, I am interested in developing tools for effective low-shot learning, generative models, bayesian deep learning and variational inference."
 
