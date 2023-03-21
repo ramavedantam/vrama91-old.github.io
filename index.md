@@ -3,11 +3,10 @@ layout: home
 title: Home
 ---
 
-Hi! I am a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York, broadly interested in
-machine learning that mimics capabilities of human intelligence. I tackle problems at this frontier from the perspective of how one can get machines to 
-appropriately learn concepts, and how to combine concepts to enable conceptual leaps, mimicking and hopefully surpassing the capabilities of humans.
-I enjoy working on both practical aspects (of tools, benchmarks, tasks) to enable progress on these questions and dabble a bit on the theoretical
-front as well. 
+Hi! I am currently a visiting researcher at the NYU Center for Data Science (CDS) working with <a href="https://en.wikipedia.org/wiki/Julia_Kempe">Prof. Julia Kempe</a> and <a href="https://cims.nyu.edu/~andrewgw/">Prof. Andrew Gordon Wilson</a>.
+Previously, I was Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York. I enjoy
+working on problems in core machine learning that make AI models more general, robust and human-like. 
+In pursuit of these goals, my current focus is on multimodal machine learning, robustness and data efficient learning. 
 
 Previously, I graduated with my PhD in Computer Science from the School of Interactive Computing at Georgia Tech.
 My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
@@ -30,22 +29,10 @@ In a previous life, I was an undergrad in ECE at IIIT-Hyderabad where I worked w
 
 <h3>News</h3>
 <ul>
-<li> <b>[September, 2020]</b> Paper on decodable information for optimal supervised representation learning accepted to NeurIPS, 2020 as a Spotlight!</li>
-<li> <b>[April, 2020]</b> Paper on finding decision states without external reward supervision in RL accepted to IJCAI, 2020!</li>
-<li> <b>[April, 2019]</b> Paper on learning proabilistic neural symbolic models accepted to ICML, 2019!</li>
-<li> <b>[Feb, 2019]</b> I started at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> as a Research Scientist!</li>
-<li> <b>[April, 2018]</b> I received the <a href="https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html">2018 Google PhD Fellowship in Machine Perception, Speech Technology and Computer Vision</a>!</li>
-<li> <b>[March, 2018]</b> I will be interning at MSR Cambridge this summer, working on generative models of vision, language and action!</li>
-<li> <b>[Feb, 2018]</b> Paper on learning grounded generative (image) models accepted to ICLR, 2018!</li>
-<li> <b>[August, 2017]</b> I will be moving to Georgia Tech this Fall, following my advisor's move!</li>
-<li> <b>[June, 2017]</b> Recognized as one of the outstanding reviewers at CVPR, 2017</li>
-<li> <b>[June, 2017]</b> Paper on learning word embeddings grounded in sounds accepted as a short paper at EMNLP, 2017!</li>
-<li> <b>[May, 2017]</b> I interned at Facebook AI Research (FAIR) in Summer, 2017, working with <a href='http://filebox.ece.vt.edu/~parikh'>Devi Parikh</a>, <a href="http://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a> and <a href="http://rohrbach.vision/">Marcus Rohrbach</a>!</li>
-<li> <b>[March, 2017]</b> Two papers accepted to CVPR 2017 as Spotlight presentations! </li>
-<li> <b>[Jan, 2017]</b> I interned at Google Research in Winter 2017, working with <a href="http://research.google.com/pubs/KevinMurphy.html">Kevin Murphy</a> on generative models for images!</li>
-<li> <b>[May, 2016]</b> I interned at Google Research in Summer 2016, with <a href="http://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a>!</li>
+<li> <b>[February, 2023]</b> Paper on Nullspace characterization for Out of Distribution (OOD) generalization accepted at ICLR, 2023!</li>
+<li> <b>[February, 2023]</b> Paper on Robustness of VQA models to distribution shifts accepted at CVPR, 2023.</li>
+<li> <b>[May, 2022]</b> Paper on Measuring Equivariance of Objectness models accepted at ICML, 2022.</li>
 </ul>
-<hr/>
 
 <h3>Code</h3>
 <ul>
