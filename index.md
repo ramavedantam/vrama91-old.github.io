@@ -15,8 +15,8 @@ Previously, I graduated with my PhD in Computer Science from the School of Inter
 My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
 My thesis was on <a href="https://smartech.gatech.edu/handle/1853/60799">"Interpretation, Grounding and Imagination for Machine Intelligence"</a>.
 Among other things, I proposed the <a href="https://arxiv.org/abs/1411.5726">CIDEr metric</a> commonly used for evaluating image captioning
-models (3000+ citations) and contributed to the <a href="https://arxiv.org/abs/1610.02391">Grad-CAM</a> method popularly used for interpreting neural
-network predictions (13000+ citations) during my Ph.D.
+models (<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v1CRzeAAAAAJ&citation_for_view=v1CRzeAAAAAJ:9yKSN-GCB0IC">3000+</a> citations) and contributed to the <a href="https://arxiv.org/abs/1610.02391">Grad-CAM</a> method popularly used for interpreting neural
+network predictions (<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v1CRzeAAAAAJ&citation_for_view=v1CRzeAAAAAJ:zYLM7Y9cAGgC">13000+</a> citations) during my Ph.D.
 
 For more details on my research see my <a href='https://scholar.google.com/citations?user=v1CRzeAAAAAJ&hl=en'>Google Scholar</a> page or checkout my <a href="http://vrama91.github.io/publications/">publications</a>. During my PhD, my research was supported by a Google PhD fellowship in Machine Perception, Speech Technology and Computer Vision.
 
