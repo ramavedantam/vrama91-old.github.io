@@ -3,6 +3,6 @@ layout: page
 title: Contact
 ---
 <div align="center">
-<b>Email:</b> ramav_at_fb.com<br/>
+<b>Email:</b> ramakrishna928@gmail.com<br/>
 </div>
 
