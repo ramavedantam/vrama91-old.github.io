@@ -16,17 +16,17 @@ layout: page
 Hyperbolic Image-Text Representations. <br/>
 In submission to International Conference on Machine Learning (ICML), 2023</li>
 <li>Corentin Dancette, Spencer Whitehead, Rishabh Maheshwary, <em>Ramakrishna Vedantam</em>, Stefan Scherer, Xineli Chen, Matthieu Cord, Marcus Rohrbach<br/>
-Improving Selective Visual Question Answering by Learning from Your Peers.<br/>
+Improving Selective Visual Question Answering by Learning from Your Peers. [Coming Soon!] <br/>
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023<br/></li>
 <li>Daksh Idnani, Vivek Madan, Naman Goyal, David J. Schwab, <em>Ramakrishna Vedantam</em><br/>
-Dont forget the nullspace! Nullspace occupancy as a mechanism for out of distribution
-failure.<br/>
+<a href="https://openreview.net/forum?id=39z0zPZ0AvB">Dont forget the nullspace! Nullspace occupancy as a mechanism for out of distribution
+failure.</a><br/>
 International Conference on Learning Representations (ICLR), 2023 </li>
 <li>Sirui Xie, Ari S Morcos, Song-Chun Zhu, <em>Ramakrishna Vedantam</em><br/>
-COAT: Measuring Object Compositionality in Emergent Representations.<br/>
+<a href="https://proceedings.mlr.press/v162/xie22b.html">COAT: Measuring Object Compositionality in Emergent Representations.</a><br/>
 International Conference on Machine Learning (ICML), 2022</li>
   <li><em>Ramakrishna Vedantam</em>, David Lopez-Paz<sup>*</sup>, David Schwab<sup>*</sup><br/>
-	An Empirical Investigation of Domain Generalization in Empirical Risk Minimizers<br/>
+	<a href="https://proceedings.neurips.cc/paper/2021/hash/ecf9902e0f61677c8de25ae60b654669-Abstract.html">An Empirical Investigation of Domain Generalization in Empirical Risk Minimizers</a><br/>
 	Neural Information Processing Systems (NeurIPS), 2021 <br/>
 	</li>
 	<li><em>Ramakrishna Vedantam</em>, Arthur Szlam, Maximilian Nickel, Ari Morcos, Brenden Lake<br/>
