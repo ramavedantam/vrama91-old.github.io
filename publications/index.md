@@ -41,12 +41,12 @@ International Conference on Machine Learning (ICML), 2022</li>
 	<li><em>Ramakrishna Vedantam</em>, Arthur Szlam, Maximilian Nickel, Ari Morcos, Brenden Lake<br/>
 	<a href="https://proceedings.mlr.press/v139/vedantam21a.html">CURI: A Benchmark for Productive Concept Learning Under Uncertainty</a><br/>
 	International Conference on Machine Learning (ICML), 2021 <br/>
+	<a href="http://github.com/facebookresearch/productive_concept_learning">[Code]</a><br/>
 	</li>
 </ol>
 
 <h3>2020</h3>
 <ol>
-	<a href="http://github.com/facebookresearch/productive_concept_learning">[Code]</a><br/>
   <li>Yann Dubois, Douwe Keila, David J. Schwab, <em>Ramakrishna Vedantam</em><br/>
 	<a href="https://arxiv.org/abs/2009.12789">Learning Optimal Representations with the Decodable Information Bottleneck</a><br/>
 	Neural Information Processing Systems (NeurIPS), 2020 <b>(Spotlight)</b> <b> [Top 4%] </b><br/>
