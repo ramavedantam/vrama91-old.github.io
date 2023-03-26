@@ -14,7 +14,7 @@ layout: page
 <h3>2023</h3>
 <ul>
 <li>Karan Desai, Maximilian Nickel, Tanmay Rajpurohit, Justin Johnson, <em>Ramakrishna Vedantam</em><br/>
-Hyperbulic Image-Text Representations. <br/>
+Hyperbolic Image-Text Representations. <br/>
 In submission to International Conference on Machine Learning (ICML), 2023</li>
 <li>Corentin Dancette, Spencer Whitehead, Rishabh Maheshwary, <em>Ramakrishna Vedantam</em>, Stefan Scherer, Xineli Chen, Matthieu Cord, Marcus Rohrbach<br/>
 Improving Selective Visual Question Answering by Learning from Your Peers. [Coming Soon!] <br/>
