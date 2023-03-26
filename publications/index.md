@@ -37,6 +37,7 @@ International Conference on Machine Learning (ICML), 2022</li>
   <li><em>Ramakrishna Vedantam</em>, David Lopez-Paz<sup>*</sup>, David Schwab<sup>*</sup><br/>
 	<a href="https://proceedings.neurips.cc/paper/2021/hash/ecf9902e0f61677c8de25ae60b654669-Abstract.html">An Empirical Investigation of Domain Generalization in Empirical Risk Minimizers</a><br/>
 	Neural Information Processing Systems (NeurIPS), 2021 <br/>
+	<a href="https://github.com/facebookresearch/domainbed_measures">[Code]</a><br/>
 	</li>
 	<li><em>Ramakrishna Vedantam</em>, Arthur Szlam, Maximilian Nickel, Ari Morcos, Brenden Lake<br/>
 	<a href="https://proceedings.mlr.press/v139/vedantam21a.html">CURI: A Benchmark for Productive Concept Learning Under Uncertainty</a><br/>
@@ -50,6 +51,7 @@ International Conference on Machine Learning (ICML), 2022</li>
   <li>Yann Dubois, Douwe Keila, David J. Schwab, <em>Ramakrishna Vedantam</em><br/>
 	<a href="https://arxiv.org/abs/2009.12789">Learning Optimal Representations with the Decodable Information Bottleneck</a><br/>
 	Neural Information Processing Systems (NeurIPS), 2020 <b>(Spotlight)</b> <b> [Top 4%] </b><br/>
+	<a href="https://github.com/YannDubs/Mini_Decodable_Information_Bottleneck">[Code]</a><br/>
 	</li>
   <li>Nirbhay Modhe, Prithvijit Chattopadhyay, Mohit Sharma, Abhishek Das, Devi Parikh, Dhruv Batra, <em>Ramakrishna Vedantam</em><br/>
 	<a href="https://arxiv.org/abs/1907.10580">IR-VIC: IR-VIC: Unsupervised Discovery of Sub-goals for Transfer in RL</a><br/>
