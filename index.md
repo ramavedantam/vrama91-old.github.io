@@ -3,15 +3,14 @@ layout: home
 title: Home
 ---
 
-Hi! I am currently a visiting researcher at the NYU Center for Data Science (CDS) working with <a href="https://en.wikipedia.org/wiki/Julia_Kempe">Prof. Julia Kempe</a> and <a href="https://cims.nyu.edu/~andrewgw/">Prof. Andrew Gordon Wilson</a>.
-Previously, I was a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York. I enjoy
-working on problems in core machine learning that make AI models more general, robust and human-like. 
-In pursuit of these goals, my current focus is on multimodal machine learning, robustness and data efficient learning.
+I am an AI researcher with interests the theory as well as practical foundations of humanlike, trustworthy and data efficient AI systems.
+
+Previously, I was a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York. More recently, I also spent some time as a visiting faculty at the NYU Center for Data Science.
 
 At FAIR, I proposed the <a href="https://arxiv.org/abs/2009.12789">Decodable Information Bottleneck for Representation Learning</a> which provides
 a theoretical and practical foundation for worst case risk mitigation for deep representation learning.
 
-Previously, I graduated with a Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech.
+I graduated with a Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech.
 My PhD advisor was <a href='https://www.cc.gatech.edu/~parikh/'>Devi Parikh</a>.
 My thesis was on <a href="https://smartech.gatech.edu/handle/1853/60799">"Interpretation, Grounding and Imagination for Machine Intelligence"</a>.
 Among other things, during my Ph.D. I proposed the <a href="https://arxiv.org/abs/1411.5726">CIDEr metric</a> commonly used for evaluating image captioning
