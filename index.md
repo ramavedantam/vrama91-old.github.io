@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-I am an AI researcher with interests the theory as well as practical foundations of humanlike, trustworthy and data efficient AI systems.
+I am an AI researcher with interests in the theory as well as practical foundations of humanlike, trustworthy and data efficient AI systems.
 
 Previously, I was a Research Scientist at <a href="https://research.fb.com/category/facebook-ai-research/">Facebook AI Research (FAIR)</a> in New York. More recently, I also spent some time as a visiting faculty at the NYU Center for Data Science.
 
